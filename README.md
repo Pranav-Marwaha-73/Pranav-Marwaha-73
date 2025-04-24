@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranav Marwaha<br>I'm a dedicated and aspiring Data Scientist and Software Developer currently pursuing a B.Tech in Computer Science Engineering. I’m passionate about solving real-world problems using machine learning, artificial intelligence, and creative software solutions.<br><br>🔬 I’ve interned in AI/ML and Web Development, where I worked on everything from data cleaning and visualization to building interactive UIs with Streamlit and responsive websites using HTML, CSS, and JavaScript.<br>br>📚 I’m always learning and have earned certifications from NVIDIA, Microsoft, Infosys Springboard, and Unstop.
+👋 Hi, I'm Pranav Marwaha<br>I'm a dedicated and aspiring Data Scientist and Software Developer currently pursuing a B.Tech in Computer Science Engineering. I’m passionate about solving real-world problems using machine learning, artificial intelligence, and creative software solutions.<br><br>🔬 I’ve interned in AI/ML and Web Development, where I worked on everything from data cleaning and visualization to building interactive UIs with Streamlit and responsive websites using HTML, CSS, and JavaScript.<br>📚 I’m always learning and have earned certifications from NVIDIA, Microsoft, Infosys Springboard, and Unstop.
 
 
 # 💻 Tech Stack:
