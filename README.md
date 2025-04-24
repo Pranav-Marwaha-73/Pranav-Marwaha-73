@@ -1,6 +1,6 @@
-![MasterHead](https://wallpaperaccess.com/full/8351153.gif)
+![MasterHead](https://wallpaperaccess.com/full/7928433.gif)
 <h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Pranav Marwaha.</h2>
-## 💫 About Me:
+#💫 About Me:
 👋I'm a dedicated and aspiring Data Scientist and Software Developer currently pursuing a B.Tech in Computer Science Engineering. I’m passionate about solving real-world problems using machine learning, artificial intelligence, and creative software solutions.<br><br>🔬 I’ve interned in AI/ML and Web Development, where I worked on everything from data cleaning and visualization to building interactive UIs with Streamlit and responsive websites using HTML, CSS, and JavaScript.<br>📚 I’m always learning and have earned certifications from NVIDIA, Microsoft, Infosys Springboard, and Unstop.
 
 
