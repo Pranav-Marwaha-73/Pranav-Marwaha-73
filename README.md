@@ -4,6 +4,14 @@ AI Engineer building agentic AI systems and applied ML products. I currently wor
 
 I care about shipping production-grade agentic systems — not just prototypes — and enjoy going deep on multi-agent orchestration, RAG pipelines, and MCP tooling.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
 ## 🔧 What I'm working on
 
 - **Sandbox MCP Server** — a production MCP server exposing tools to spin up, run, and tear down isolated code execution environments, served over Cloudflare Tunnel.
@@ -30,4 +38,5 @@ I care about shipping production-grade agentic systems — not just prototypes �
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/pranav-marwaha73/) · [Email](mailto:pranavmarwaha73@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-marwaha73/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavmarwaha73@gmail.com)
