@@ -18,23 +18,6 @@ I care about shipping production-grade agentic systems — not just prototypes �
 - **Self-Correcting Multi-Agent RAG System** — a LangGraph-based agent with dynamic tool routing, short/long-term memory (Supabase + FAISS), and a CRAG-based self-correcting retrieval pipeline.
 - **Credit Risk Prediction Microservice** — an XGBoost-based credit risk classifier with SHAP explainability, deployed as a FastAPI microservice.
 
-## 🧰 Tech Stack
-
-**Languages & Frameworks:** Python · SQL · FastAPI · Flask · Scikit-learn · PyTorch
-
-**AI & Agents:** LangChain / LangGraph (DeepAgents) · RAG (CRAG, Self-RAG) · MCP · Prompt Engineering
-
-**NVIDIA Stack:** NemoClaw · OpenClaw · NVIDIA OpenShell
-
-**Infra & MLOps:** Docker · GitHub Actions · AWS EC2 · GCP VM · Render
-
-**Data & Tools:** Pandas · NumPy · Streamlit · Hugging Face
-
-## 🏆 Highlights
-
-- Open-source contributor to **IntelOwl** (threat intelligence platform) — PR #78 merged, resolving a production routing conflict.
-- **Top 10, BITS Tech-a-Thon 4.0** — national hackathon, led a 3-member team.
-- NVIDIA certified — *Building LLM Applications with Prompt Engineering*.
 
 ## 📫 Connect
 
